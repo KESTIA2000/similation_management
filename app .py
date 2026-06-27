@@ -1,5 +1,3 @@
-!pip install streamlit matplotlib numpy
-!streamlit run app.py
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
